@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">FirstProject</string>
+    <string name="name" translatable="false">UNIBOI</string>
+    <string name="website" translatable="false">www.uniboi.com.br</string>
+    <string name="phone" translatable="false">(85) 3036-2339</string>
+    <string name="description">Tradition and quality.</string>
+    <string name="hours_operation">Open: 07:00–19:30</string>
+    <string name="address" translatable="false">Av. Mozart Pinheiro de Lucena, 2991 - Fortaleza</string>
+</resources>
